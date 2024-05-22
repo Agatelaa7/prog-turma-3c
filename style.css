@@ -1,4 +1,6 @@
-:root {
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+
+root {
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
     --branco: #FFFFFF;
@@ -14,7 +16,7 @@ body {
 :root {
     --cor-base: #ff6347;
   }
-  .conteudo-principal {
+.conteudo-principal {
     display: flex;
     flex-direction: column;
     justify-content: center;
